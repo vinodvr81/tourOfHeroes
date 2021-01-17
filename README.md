@@ -16,3 +16,7 @@ ng generate service hero  <-- To create a service for hero
 ng generate component messages   <--  to create a component called messages
 
 ng generate service message   <-- To create a service for message
+
+ng generate module app-routing --flat --module=app   <-- To add a app routing
+
+ng generate component dashboard   <--  to create a component called dashboard
